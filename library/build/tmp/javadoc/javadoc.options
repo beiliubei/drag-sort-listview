@@ -1,0 +1,13 @@
+-classpath '/Users/liubei/Applications/adt-bundle-mac-x86_64/sdk/platforms/android-16/android.jar:/Users/liubei/Applications/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-v4/20.0.0/support-v4-20.0.0.aar:/Users/liubei/Applications/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar'
+-d '/Users/liubei/Documents/work/github/drag-sort-listview/library/build/docs/javadoc'
+-doctitle 'library API'
+-quiet 
+-windowtitle 'library API'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/DragSortController.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/DragSortCursorAdapter.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/DragSortItemView.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/DragSortItemViewCheckable.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/DragSortListView.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/ResourceDragSortCursorAdapter.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/SimpleDragSortCursorAdapter.java'
+'/Users/liubei/Documents/work/github/drag-sort-listview/library/src/main/java/com/mobeta/android/dslv/SimpleFloatViewManager.java'
